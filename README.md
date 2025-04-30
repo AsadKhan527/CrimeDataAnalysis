@@ -65,9 +65,14 @@ All models were evaluated using `accuracy_score` and `confusion_matrix`. Random 
 
 ## 🖼️ Visualizations
 
-| KMeans Clustering | GMM Clustering | Linear Regression |
-|------------------|----------------|-------------------|
-| ![KMeans](./24f82ad7-96d4-4fa9-99aa-95e5a864895b.png) | ![GMM](./4f567597-6301-4ed5-ae78-0ff02f9f0e46.png) | ![Linear](./404e56af-b310-449a-8abe-936027660e29.png) |
+KMeans Clustering :
+![image](https://github.com/user-attachments/assets/81b913d7-6591-4c44-9b1d-3298b9812181)
+
+GMM Clustering : 
+![image](https://github.com/user-attachments/assets/d1d5ea29-4278-4128-885c-f71ea832e4bd)
+
+Linear Regression :
+![image](https://github.com/user-attachments/assets/0d25a16d-3034-446b-b5e3-287d3ae1c29a)
+
 
 ---
-
